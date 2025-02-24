@@ -27,7 +27,7 @@ Before running the bot, ensure you have:
 ### Clone the Repository
 
 ```bash
-$ git clone https://github.com/kananbabayev92/focus-timer-bot.git
+$ git clone https://github.com/kananbabayev92/hacker-timer
 $ cd focus-timer-bot
 ```
 
