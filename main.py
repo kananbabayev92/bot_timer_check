@@ -1,7 +1,7 @@
 import asyncio
 from aiogram import Bot, Dispatcher, types
 from keyboard import get_main_keyboard
-from telegram_token import FIRST_MESSAGE
+from message import FIRST_MESSAGE
 from datetime import datetime
 from dotenv import load_dotenv
 import os
