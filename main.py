@@ -1,10 +1,10 @@
 import asyncio
+import os
 from aiogram import Bot, Dispatcher, types
 from keyboard import get_main_keyboard
 from message import FIRST_MESSAGE
 from datetime import datetime
 from dotenv import load_dotenv
-import os
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.filters import Command
